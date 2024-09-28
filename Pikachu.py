@@ -106,7 +106,7 @@ class Pikachu:
         t.circle(50, 12.1)
         t.end_fill()
 
-        # Tongue
+        # Tonguee
         self.noTrace_goto(17, 54)
         t.fillcolor('#DD716F')
         t.begin_fill()
