@@ -1,4 +1,4 @@
-#pikachu using Turtle
+#pikachu using Turtle drawing
 
 import turtle
 
